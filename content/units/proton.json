@@ -1,15 +1,15 @@
 {
 "type": "flying"
-"health": 1200
+"health": 12000000000000000000000000000000
 "flying": true
-"range": 50
-"buildSpeed": 8
-"mineTier": 4
-"mineSpeed": 5.0
-"drag": 0.06
-"accel": 0.06
-"itemCapacity": 120
-"speed": 5.0
+"range": 500000000000000000000000
+"buildSpeed": 80000000000000
+"mineTier": 400000000000000000
+"mineSpeed": 500000000000000000000.0
+"drag": 1.0
+"accel": 1.0
+"itemCapacity": 12000000000000000000000000
+"speed": 5000.0
 "weapons": [
 {
   "name": "Proton-Weapon"
@@ -38,9 +38,9 @@
   "y": 5
   "mirror": false
   "rotate": false
-  "reload": 45
+  "reload": 0.000000000000001
   "shootSound": "missile"
-  "shots": 1
+  "shots": 10000
   "bullet": {
   "lifetime": 15
   "splashDamageRadius": 20
